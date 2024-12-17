@@ -227,7 +227,7 @@ public final class Read {
 
     /* Leggi in input un numero con la virgola che deve essere <= max */
     public static float numberMax(String message, float max) {
-        // TODO
+        
         return 0;
     }
 
